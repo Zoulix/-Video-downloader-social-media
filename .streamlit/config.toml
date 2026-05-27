@@ -1,0 +1,12 @@
+[server]
+# Permet à plusieurs utilisateurs d'être servis simultanément
+# sans que l'un bloque l'autre
+maxUploadSize = 1024        # MB — taille max upload si tu ajoutes cette feature
+maxMessageSize = 1024       # MB — taille max des messages websocket (fichiers envoyés)
+
+[runner]
+# Chaque session utilisateur tourne dans son propre thread
+fastReruns = true
+
+[browser]
+gatherUsageStats = false    # pas de télémétrie envoyée à Streamlit

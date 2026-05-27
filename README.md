@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📹 Social Media Video Downloader
 
 Un outil puissant et facile à utiliser pour télécharger des vidéos directement depuis vos plateformes de réseaux sociaux préférées.
@@ -319,3 +320,7 @@ Merci à :
 **Made with ❤️ by [Zoul](https://github.com/Zoulix) and [Christ](https://github.com/christ1379)**
 
 Dernière mise à jour : May 2026
+=======
+# VidDownloader
+Create an application to download videos from social media directly on your device.
+>>>>>>> 40de896a27de4aaafd5d61ad3b2003f0d8efaceb

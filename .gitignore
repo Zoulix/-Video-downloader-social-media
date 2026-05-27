@@ -1,0 +1,62 @@
+# .gitignore généré pour le projet Video-downloader-social-media
+# Ignore les environnements virtuels, artefacts Python, IDE, et fichiers sensibles
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+nosetests.xml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+credentials.json
+secrets.json
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*~
+node_modules/
